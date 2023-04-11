@@ -1,0 +1,21 @@
+= iPhoneHolder
+
+A simple iPhoneX holder to be installed in the car.
+The iPhoneX I use has a QuadLock cover and the phone has to fit into the holder with the cover.
+
+image::image-2023-04-11-20-59-51-836.png[]
+
+The design contains a module, which is the solid body of the iPhoneX itself inside the QuadLock cover.
+This solid body has protruding parts at the screen, camera and the power adapter.
+
+The holder is a solid box and the iPhoneX body is removed from it using `difference(){}`.
+
+In addition to that the top of the holder is cut off, so that the phone can be put into it from the top.
+
+I use the holder in my Prius glued to board in front of the steering wheel using Gekko Tape.
+
+
+Files:
+
+* link:iphoneX-in-quadlock.stl[Stl file compiled]
+* link:iphoneX-in-quadlock.scad[OpenScad file]
